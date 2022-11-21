@@ -15,8 +15,9 @@
 
 ```Beluga```
 <img src="https://raw.githubusercontent.com/AkasTKzume69/Boot-Logo-Realme-3-3i/main/assert/Beluga.png" />
-</p>
 
 ```Pornhub```
 <img src="https://raw.githubusercontent.com/AkasTKzume69/Boot-Logo-Realme-3-3i/main/assert/Pornhub.png" />
-</p>
+
+```RealmeXROG```
+<img src="https://raw.githubusercontent.com/AkasTKzume69/Boot-Logo-Realme-3-3i/main/assert/RealmeXROG.png" />
