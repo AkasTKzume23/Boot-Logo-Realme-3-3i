@@ -9,8 +9,12 @@
 • Flash through custom recovery only.
 # Downloads:
 - [**All Files(SourgeForge)**](https://sourceforge.net/projects/akastkzume-files/files/Boot%20Logo%20Realme%203-3i/)
-# Support
-- [**Telegram**]()
+# Support and Discussions
+- [**Telegram**](https://t.me/bootlogorealme3official)
+# Buy me a coffee
+- Paypal (I dont have)
+- Paytm (I dont have)
+- Gcash +639167916999 or 09167916999
 # Preview Images:
 
 ```Beluga```
