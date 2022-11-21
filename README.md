@@ -15,8 +15,8 @@
 - Paytm (I dont have)
 - Gcash +639167916999 or 09167916999
 # Special Thanks To:
-- Ravi Kishor (Pro Sir)
-- Techno Aviator (Waiting to Promote)
+- Ravi Kishor
+- Techno Aviator (Waiting to promote me)
 # Preview Images:
 ```Beluga```
 <img src="https://raw.githubusercontent.com/AkasTKzume69/Boot-Logo-Realme-3-3i/main/assert/Beluga.png" />
