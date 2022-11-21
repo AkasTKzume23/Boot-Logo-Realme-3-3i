@@ -8,7 +8,7 @@
 - Flash through custom recovery only.
 # Downloads:
 - [**All Files(SourgeForge)**](https://sourceforge.net/projects/akastkzume-files/files/Boot%20Logo%20Realme%203-3i/)
-# Support and Discussions
+# Support and Discussion
 - [**Telegram**](https://t.me/bootlogorealme3official)
 # Buy me a coffee:
 - Paypal (I dont have)
