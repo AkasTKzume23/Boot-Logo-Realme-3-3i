@@ -1,0 +1,44 @@
+#This script was made by AkasTKzume
+
+ui_print (" ");
+ui_print (" ############################################# ");
+ui_print (" Stock Boot Logo ");
+ui_print (" ############################################# ");
+sleep(1);
+ui_print (" ");
+ui_print (" ############################################# ");
+ui_print (" Realme 3/3i ");
+ui_print (" RMX1821 ");
+ui_print (" RMX1823 ");
+ui_print (" RMX1825 ");
+ui_print (" RMX1827 ");
+ui_print (" ############################################# ");
+sleep(2);
+show_progress(0.900000, 0);
+ui_print (" ");
+ui_print (" ############################################# ");
+ui_print (" By AkasTKzume ");
+ui_print (" ############################################# ");
+sleep(5);
+show_progress(0.020000, 10);
+ui_print (" ");
+ui_print (" ############################################# ");
+ui_print (" Checking Device! ");
+ui_print (" ############################################# ");
+assert(getprop("ro.product.device") == "RMX1821" || getprop("ro.build.product") == "RMX1821" ||
+       getprop("ro.product.device") == "RMX1823" || getprop("ro.build.product") == "RMX1823" ||
+       getprop("ro.product.device") == "RMX1825" || getprop("ro.build.product") == "RMX1825" ||
+       getprop("ro.product.device") == "RMX1827" || getprop("ro.build.product") == "RMX1827" || abort("E3004: This package is for device: RMX1821, RMX1823, RMX1825, RMX1827; Your device is " + getprop("ro.product.device") + "."););
+sleep(2);
+show_progress(0.100000, 10);
+ui_print (" ");
+ui_print (" ############################################# ");
+ui_print (" Flashing Started! ");
+ui_print (" ############################################# ");
+package_extract_file("logo.bin", "/dev/block/by-name/logo");
+ui_print (" ");
+ui_print (" ############################################# ");
+ui_print (" Flashing Completed! ");
+ui_print (" ############################################# ");
+sleep(2);
+set_progress(1.000000);
