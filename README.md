@@ -7,5 +7,6 @@
 • This file will replace your current boot logo.
 # Installation:
 • Flash through custom recovery only.
+# Downloads
 # Support
 Discussion: http://t.me/belugarealme3official
