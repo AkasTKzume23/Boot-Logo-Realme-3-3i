@@ -2,7 +2,7 @@
 
 ui_print (" ");
 ui_print (" ############################################# ");
-ui_print (" Stock Boot Logo ");
+ui_print (" Boot Logo ");
 ui_print (" ############################################# ");
 sleep(1);
 ui_print (" ");
