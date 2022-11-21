@@ -7,6 +7,7 @@
 • This file will replace your current boot logo.
 # Installation:
 • Flash through custom recovery only.
-# Downloads
+# Downloads:
+- [**SourgeForge**](https://sourceforge.net/projects/akastkzume-files/files/Boot%20Logo%20Realme%203-3i/)
 # Support
-Discussion: http://t.me/belugarealme3official
+- [**Telegram**]()
