@@ -10,17 +10,17 @@
 - [**All Files(SourgeForge)**](https://sourceforge.net/projects/akastkzume-files/files/Boot%20Logo%20Realme%203-3i/)
 # Support and Discussions
 - [**Telegram**](https://t.me/bootlogorealme3official)
-# Buy me a coffee
+# Buy me a coffee:
 - Paypal (I dont have)
 - Paytm (I dont have)
 - Gcash +639167916999 or 09167916999
+# Special Thanks To:
+- Ravi Kishor (Pro Sir)
+- Techno Aviator (Waiting to Promote)
 # Preview Images:
-
 ```Beluga```
 <img src="https://raw.githubusercontent.com/AkasTKzume69/Boot-Logo-Realme-3-3i/main/assert/Beluga.png" />
-
 ```Pornhub```
 <img src="https://raw.githubusercontent.com/AkasTKzume69/Boot-Logo-Realme-3-3i/main/assert/Pornhub.png" />
-
 ```RealmeXROG```
 <img src="https://raw.githubusercontent.com/AkasTKzume69/Boot-Logo-Realme-3-3i/main/assert/RealmeXROG.png" />
