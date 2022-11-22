@@ -7,7 +7,7 @@
 - This file will replace your current boot logo.
 # Installation:
 - Flash through custom recovery only.
-- Highly recommended use PBRP 3.1.0 Recovery.
+- Highly recommended use PBRP 3.1.0 Recovery fot flashing.
 # Downloads:
 - [**All Files(SourgeForge)**](https://sourceforge.net/projects/akastkzume-files/files/Boot%20Logo%20Realme%203-3i/)
 # Support and Discussion:
