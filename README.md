@@ -15,7 +15,8 @@
 - Paytm (I dont have)
 - Gcash +639167916999 or 09167916999
 # Special Thanks To:
-- Ravi Kishor
+- Ravi Kishor (@Ravi_Kishor)
+- iTacHi (@ayushsensei)
 - Techno Aviator (Waiting to promote me)
 # Preview Images:
 ```Beluga```
