@@ -10,6 +10,9 @@
 - [**All Files(SourgeForge)**](https://sourceforge.net/projects/akastkzume-files/files/Boot%20Logo%20Realme%203-3i/)
 # Support and Discussion
 - [**Telegram**](https://t.me/bootlogorealme3official)
+# You may also like
+- [**Beluga Magisk Module**](https://github.com/AkasTKzume69/Beluga-Magisk-Module-Realme-3-3i)
+- [**Bootanimation**]()
 # Buy me a coffee:
 - Paypal (I dont have)
 - Paytm (I dont have)
