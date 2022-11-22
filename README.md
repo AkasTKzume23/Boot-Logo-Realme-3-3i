@@ -12,7 +12,7 @@
 - [**Telegram**](https://t.me/bootlogorealme3official)
 # You may also like
 - [**Beluga Magisk Module**](https://github.com/AkasTKzume69/Beluga-Magisk-Module-Realme-3-3i)
-- [**Bootanimation**]()
+- [**Bootanimation**]()(Coming Soon)
 # Buy me a coffee:
 - Paypal (I dont have)
 - Paytm (I dont have)
