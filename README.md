@@ -7,15 +7,15 @@
 - This file will replace your current boot logo.
 # Installation:
 - Flash through custom recovery only.
-- Highly recommended use PBRP 3.1.0 Recovery fot flashing.
+- Highly recommended use PBRP 3.1.0 Recovery for flashing.
 # Downloads:
 - [**All Files(SourgeForge)**](https://sourceforge.net/projects/akastkzume-files/files/Boot%20Logo%20Realme%203-3i/)
 # Support and Discussion:
 - [**Telegram**](https://t.me/bootlogorealme3official)
 # You may also like;)
 - [**Beluga Magisk Module**](https://github.com/AkasTKzume69/Beluga-Magisk-Module-Realme-3-3i)
-- [**Bootanimation**]()(Coming Soon)
-- [**Beluga Kernel**]()(Just kidding)
+- [**Bootanimation**]() (Coming Soon)
+- [**Beluga Kernel**]() (Just kidding)
 # Buy me a coffee:
 - Paypal (I dont have)
 - Paytm (I dont have)
